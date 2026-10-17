@@ -1,7 +1,7 @@
 # ⚔️ Godot Combat System
 ### 现代化、高扩展性的 2D 组件化战斗底层
 
-![Godot Engine](https://img.shields.io/badge/Godot-4.x-blue?style=for-the-badge&logo=godot-engine)
+![Godot Engine](https://img.shields.io/badge/Godot-4.7.2.stable.steam-blue?style=for-the-badge&logo=godot-engine)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-GDScript-orange?style=for-the-badge)
 
