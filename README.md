@@ -1,4 +1,3 @@
-```markdown
 # ⚔️ Godot Combat System
 ### 现代化、高扩展性的 2D 组件化战斗底层
 
