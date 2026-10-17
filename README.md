@@ -1,3 +1,23 @@
+> [!WARNING]
+> 🌐 **Language Support Notice**
+> 
+> - 🇺🇸 **English**：This plugin currently only supports Chinese.
+> - 🇨🇳 **中文**：本插件暂时只支持中文。
+>
+> <details>
+> <summary>🌍 点击展开更多语言 (Click to expand more languages)</summary>
+> 
+> - 🇯🇵 **日本語**：このプラグインは現在、中国語のみをサポートしています。
+> - 🇰🇷 **한국어**：이 플러그인은 현재 중국어만 지원합니다.
+> - 🇪🇸 **Español**：Este plugin actualmente solo soporta chino.
+> - 🇫🇷 **Français**：Ce plugin ne prend actuellement en charge que le chinois.
+> - 🇩🇪 **Deutsch**：Dieses Plugin unterstützt derzeit nur Chinesisch.
+> - 🇷🇺 **Русский**：В настоящее время этот плагин поддерживает только китайский язык.
+> - 🇧🇷 **Português**：Este plugin atualmente suporta apenas chinês.
+> - 🇮🇹 **Italiano**：Questo plugin attualmente supporta solo il cinese.
+> 
+> </details>
+
 🚀 Godot 战斗系统插件：让 2D 动作游戏开发快人一步
 在开发 2D 动作、清版或 RPG 游戏时，你是否也曾陷入这样的泥潭：
 
